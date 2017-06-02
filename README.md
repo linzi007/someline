@@ -1,2 +1,0 @@
-# someline
-someline starter learn
